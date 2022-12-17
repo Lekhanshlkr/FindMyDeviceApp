@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FindMyDeviceApp</string>
+    <string name="title_activity_pointing_maps">PointingMapsActivity</string>
+</resources>
